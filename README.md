@@ -7,10 +7,10 @@ I am a passionate **Computer Engineering** student at Marwadi University, diving
 ---
 
 ## 🌟 **About Me**
-- 🎓 **5th Semester Computer Engineering Student**
+- 🎓 **6th Semester Computer Engineering Student**
 - 🔥 Passionate about **Full Stack Development**
 - 🌍 Exploring **Cloud Computing & Cyber Security**
-- 📚 Building an **educational platform for juniors**
+- 📚 Building an **educational platform for students**
 - 📖 Constantly learning and improving my skills
 
 ---
