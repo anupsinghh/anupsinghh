@@ -37,7 +37,6 @@ I am a passionate **Computer Engineering** student at Marwadi University, diving
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupsinghh&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anupsinghh&theme=tokyonight&hide_border=true&v=1)
 
 
 
