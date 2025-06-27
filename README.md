@@ -1,18 +1,18 @@
 # Hi there, I'm Anup Singh! 👋
 
-### 🚀 Full Stack Developer | Problem Solver | Tech Enthusiast
+### 🚀 Full Stack Developer | Tech Explorer | Problem Solver
 
-I am a passionate **Computer Engineering** student at Marwadi University, diving deep into **Full Stack Development, Data Structures & Algorithms (DSA)**, and **Cloud Computing**. I love building scalable web applications and solving challenging coding problems. 💻✨
+I'm a dedicated **Computer Engineering** student at Marwadi University (7th Semester), with a strong focus on **Full Stack Web Development** and **Data Structures & Algorithms (DSA)**. I enjoy turning ideas into real-world web applications and tackling complex problems with clean, efficient code. 💡💻
 
 ---
 
-## 🌟 **About Me**
-- 🎓 **6th Semester Computer Engineering Student**
-- 🔥 Passionate about **Full Stack Development**
-- 🌍 Exploring **Cloud Computing & Cyber Security**
-- 📚 Building an **educational platform for students**
-- 📖 Constantly learning and improving my skills
+## 🌟 About Me
 
+* 🎓 **Computer Engineering | Marwadi University**
+* 💻 Passionate about building dynamic and responsive web applications using the **MERN Stack**
+* 🧠 Actively sharpening my problem-solving skills through regular DSA practice
+* 📈 Aiming to grow as a Software Developer through continuous learning and impactful
+  
 ---
 
 ## 🛠️ **Tech Stack**
